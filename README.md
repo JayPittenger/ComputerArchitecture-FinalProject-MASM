@@ -1,4 +1,4 @@
-# AssemblyLanguageFinalProject
+# Computer Architecture Final Project
 Computer Architecture and Assembly Language final project - MASM IA-32 assembly language
 
 This is the assembly language file for the CS271 - Computer Architecture and Assembly Language Final Project
