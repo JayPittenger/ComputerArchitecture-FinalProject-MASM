@@ -7,6 +7,7 @@ Grade obtained on assignment: 100%
 
 NOTE: Permission has been obtained from the instructor of this course to publicly host this final project
 
+# Description
 Description of Assignment: The goal of this project was to write low level assembly procedures to perform the following function:
 
     - Prompt user to input a valid signed 32-bit integer; Take string input from the user
@@ -23,19 +24,19 @@ Description of Assignment: The goal of this project was to write low level assem
     
     - display string to user
 
-Key Takeaways:
+# Key Takeaways
 
-    - Modular design with assembly language
+- Modular design with assembly language
     
-    - Macros and Procedures
+- Macros and Procedures
     
-    - Passing arguments on the system stack
+- Passing arguments on the system stack
     
-    - Array manipulation
+- Array manipulation
     
-    - String primitives and byte processing
+- String primitives and byte processing
     
-    - Indirect memory access using addresses (pointers)
+- Indirect memory access using addresses (pointers)
     
-    - Arithmetic with assembly language
+- Arithmetic with assembly language
     
