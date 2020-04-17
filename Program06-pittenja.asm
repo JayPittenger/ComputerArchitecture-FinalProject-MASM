@@ -39,7 +39,7 @@ instruct_1			BYTE	"Please provide 10 signed decimal integers.", 0
 instruct_2			BYTE	"Each number needs to be small enough to fit inside a 32 bit register.", 0
 instruct_3			BYTE	"After you have finished inputting the raw numbers I will display a list", 0
 instruct_4			BYTE	"of the integers, their sum, and their average value.", 0
-prompt				BYTE	"Please enter an signed number: ", 0
+prompt				BYTE	"Please enter a signed number: ", 0
 signed_error		BYTE	"ERROR: You did not enter a signed number or your number was too big.", 0
 again_prompt		BYTE	"Please try again: ", 0
 num_str				BYTE	"You entered the following numbers:", 0
